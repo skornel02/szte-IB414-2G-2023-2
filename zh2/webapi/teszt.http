@@ -1,0 +1,6 @@
+GET http://localhost:8080/api/list
+
+
+###
+
+DELETE http://localhost:8080/api/delete/NeedForSpeed
